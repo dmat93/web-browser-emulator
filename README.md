@@ -12,8 +12,8 @@
   
 # Recommendations
    - Use this script in a virtual environment
+   - The limit for the number of clients is 252 - starting IP (considering 3 reserved IP addresses and the already assigned addresses)
    - Assign to the host machine a low ip address so the script can create more clients
-   - The limit for the number of clients is 240 considering 3 reserved IP addresses and at least 12 hosts in the subnet
   
 # Goal
 This script will start an headless version of chromium-browser in order to emulate the browsing of a webpage without graphics.
