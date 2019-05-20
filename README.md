@@ -18,4 +18,4 @@
 # Goal
 This script will start an headless version of chromium-browser in order to emulate the browsing of a webpage without graphics.
 
-![map][web-traffic-loader.png]
+![map][./web-traffic-loader.png]
